@@ -6,7 +6,7 @@ This is a simple implementation of the classic game Pong, built with Python and 
 
 To play the game, you will need to have Python 3 and the Turtle library installed on your computer. You can download Python from the [official website](https://www.python.org/downloads/) and install Turtle by typing `pip install turtle` in your terminal or command prompt.
 
-Once you have Python and Turtle installed, you can run the game by opening a terminal or command prompt, navigating to the directory where the game files are located, and typing `python pong.py`. This will launch the game window.
+Once you have Python and Turtle installed, you can run the game by opening a terminal or command prompt, navigating to the directory where the game files are located, and typing `python main.py`. This will launch the game window.
 
 ## How to Play
 
